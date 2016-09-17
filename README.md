@@ -1,5 +1,5 @@
 # lexicographic-permutations 
-
+Given a lexigraphically ordered list, returns the ith possible ordered permutation of those items.
 
 This project was completed for [Project Euler - Problem 24](https://projecteuler.net/problem=24).
 
